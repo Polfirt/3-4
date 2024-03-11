@@ -1,0 +1,14 @@
+C:\Users\Ivanr\source\repos\hj\hj\obj\Debug\net8.0\hj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivanr\source\repos\hj\hj\obj\Debug\net8.0\hj.AssemblyInfoInputs.cache
+C:\Users\Ivanr\source\repos\hj\hj\obj\Debug\net8.0\hj.AssemblyInfo.cs
+C:\Users\Ivanr\source\repos\hj\hj\obj\Debug\net8.0\hj.csproj.CoreCompileInputs.cache
+C:\Users\Ivanr\source\repos\hj\hj\bin\Debug\net8.0\hj.exe
+C:\Users\Ivanr\source\repos\hj\hj\bin\Debug\net8.0\hj.deps.json
+C:\Users\Ivanr\source\repos\hj\hj\bin\Debug\net8.0\hj.runtimeconfig.json
+C:\Users\Ivanr\source\repos\hj\hj\bin\Debug\net8.0\hj.dll
+C:\Users\Ivanr\source\repos\hj\hj\bin\Debug\net8.0\hj.pdb
+C:\Users\Ivanr\source\repos\hj\hj\obj\Debug\net8.0\hj.dll
+C:\Users\Ivanr\source\repos\hj\hj\obj\Debug\net8.0\refint\hj.dll
+C:\Users\Ivanr\source\repos\hj\hj\obj\Debug\net8.0\hj.pdb
+C:\Users\Ivanr\source\repos\hj\hj\obj\Debug\net8.0\hj.genruntimeconfig.cache
+C:\Users\Ivanr\source\repos\hj\hj\obj\Debug\net8.0\ref\hj.dll
